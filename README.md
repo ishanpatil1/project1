@@ -1,1 +1,1 @@
-# project1
+This is a project i have been working on i have almost finished with it, but i have been having an issue with the structure data storage when a certain do..while runs twice. It is supposed to take the input and print it but it prints out all the garbage values. This issue only happens during the second iteration.
